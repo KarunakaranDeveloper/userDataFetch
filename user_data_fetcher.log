@@ -1,0 +1,245 @@
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug: * Detected change in 'F:\\2024\\Python\\app\\fetcher.py', reloading
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:28:34 IST)" (scheduled at 2024-01-26 16:28:34.546265+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:29:34 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:30:34 IST)" (scheduled at 2024-01-26 16:29:34.546265+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:30:34 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:31:34 IST)" (scheduled at 2024-01-26 16:30:34.546265+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:31:34 IST)" executed successfully
+INFO:werkzeug: * Detected change in 'F:\\2024\\Python\\app\\fetcher.py', reloading
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:31:50 IST)" (scheduled at 2024-01-26 16:31:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:32:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:33:50 IST)" (scheduled at 2024-01-26 16:32:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:33:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:34:50 IST)" (scheduled at 2024-01-26 16:33:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:34:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:35:50 IST)" (scheduled at 2024-01-26 16:34:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:35:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:36:50 IST)" (scheduled at 2024-01-26 16:35:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:36:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:37:50 IST)" (scheduled at 2024-01-26 16:36:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:37:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:38:50 IST)" (scheduled at 2024-01-26 16:37:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:38:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:39:50 IST)" (scheduled at 2024-01-26 16:38:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:39:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:40:50 IST)" (scheduled at 2024-01-26 16:39:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:40:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:41:50 IST)" (scheduled at 2024-01-26 16:40:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:41:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:42:50 IST)" (scheduled at 2024-01-26 16:41:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:42:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:43:50 IST)" (scheduled at 2024-01-26 16:42:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:43:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:44:50 IST)" (scheduled at 2024-01-26 16:43:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:44:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:45:50 IST)" (scheduled at 2024-01-26 16:44:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:45:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:46:50 IST)" (scheduled at 2024-01-26 16:45:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:46:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:47:50 IST)" (scheduled at 2024-01-26 16:46:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:47:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:48:50 IST)" (scheduled at 2024-01-26 16:47:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:48:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:49:50 IST)" (scheduled at 2024-01-26 16:48:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:49:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:50:50 IST)" (scheduled at 2024-01-26 16:49:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:50:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:51:50 IST)" (scheduled at 2024-01-26 16:50:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:51:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:52:50 IST)" (scheduled at 2024-01-26 16:51:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:52:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:53:50 IST)" (scheduled at 2024-01-26 16:52:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:53:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:54:50 IST)" (scheduled at 2024-01-26 16:53:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:54:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:55:50 IST)" (scheduled at 2024-01-26 16:54:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:55:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:56:50 IST)" (scheduled at 2024-01-26 16:55:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:56:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:57:50 IST)" (scheduled at 2024-01-26 16:56:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:57:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:58:50 IST)" (scheduled at 2024-01-26 16:57:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:58:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:59:50 IST)" (scheduled at 2024-01-26 16:58:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 16:59:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:00:50 IST)" (scheduled at 2024-01-26 16:59:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:00:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:01:50 IST)" (scheduled at 2024-01-26 17:00:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:01:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:02:50 IST)" (scheduled at 2024-01-26 17:01:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:02:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:03:50 IST)" (scheduled at 2024-01-26 17:02:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:03:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:04:50 IST)" (scheduled at 2024-01-26 17:03:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:04:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:05:50 IST)" (scheduled at 2024-01-26 17:04:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:05:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:06:50 IST)" (scheduled at 2024-01-26 17:05:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:06:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:07:50 IST)" (scheduled at 2024-01-26 17:06:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:07:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:08:50 IST)" (scheduled at 2024-01-26 17:07:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:08:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:09:50 IST)" (scheduled at 2024-01-26 17:08:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:09:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:10:50 IST)" (scheduled at 2024-01-26 17:09:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:10:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:11:50 IST)" (scheduled at 2024-01-26 17:10:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:11:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:12:50 IST)" (scheduled at 2024-01-26 17:11:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:12:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:13:50 IST)" (scheduled at 2024-01-26 17:12:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:13:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:14:50 IST)" (scheduled at 2024-01-26 17:13:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:14:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:15:50 IST)" (scheduled at 2024-01-26 17:14:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:15:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:16:50 IST)" (scheduled at 2024-01-26 17:15:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:16:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:17:50 IST)" (scheduled at 2024-01-26 17:16:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:17:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:18:50 IST)" (scheduled at 2024-01-26 17:17:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:18:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:19:50 IST)" (scheduled at 2024-01-26 17:18:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:19:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:20:50 IST)" (scheduled at 2024-01-26 17:19:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:20:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:21:50 IST)" (scheduled at 2024-01-26 17:20:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:21:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:22:50 IST)" (scheduled at 2024-01-26 17:21:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:22:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:23:50 IST)" (scheduled at 2024-01-26 17:22:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:23:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:24:50 IST)" (scheduled at 2024-01-26 17:23:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:24:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:25:50 IST)" (scheduled at 2024-01-26 17:24:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:25:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:26:50 IST)" (scheduled at 2024-01-26 17:25:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:26:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:27:50 IST)" (scheduled at 2024-01-26 17:26:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:27:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:28:50 IST)" (scheduled at 2024-01-26 17:27:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:28:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:29:50 IST)" (scheduled at 2024-01-26 17:28:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:29:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:30:50 IST)" (scheduled at 2024-01-26 17:29:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:30:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:31:50 IST)" (scheduled at 2024-01-26 17:30:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:31:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:32:50 IST)" (scheduled at 2024-01-26 17:31:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:32:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:33:50 IST)" (scheduled at 2024-01-26 17:32:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:33:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:34:50 IST)" (scheduled at 2024-01-26 17:33:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:34:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:35:50 IST)" (scheduled at 2024-01-26 17:34:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:35:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:36:50 IST)" (scheduled at 2024-01-26 17:35:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:36:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:37:50 IST)" (scheduled at 2024-01-26 17:36:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:37:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:38:50 IST)" (scheduled at 2024-01-26 17:37:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:38:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:39:50 IST)" (scheduled at 2024-01-26 17:38:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:39:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:40:50 IST)" (scheduled at 2024-01-26 17:39:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:40:50 IST)" executed successfully
+INFO:apscheduler.executors.default:Running job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:41:50 IST)" (scheduled at 2024-01-26 17:40:50.790202+05:30)
+INFO:apscheduler.executors.default:Job "UserDataFacade.fetch_process_store (trigger: interval[0:01:00], next run at: 2024-01-26 17:41:50 IST)" executed successfully
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug: * Detected change in 'F:\\2024\\Python\\app\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug: * Detected change in 'F:\\2024\\Python\\app\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug: * Detected change in 'F:\\2024\\Python\\app\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug:127.0.0.1 - - [28/Jan/2024 15:04:54] "GET /api/user_data HTTP/1.1" 200 -
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug: * Detected change in 'F:\\2024\\Python\\app\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "UserDataFacade.fetch_process_store" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 253-883-708
+INFO:werkzeug:127.0.0.1 - - [28/Jan/2024 15:06:31] "GET /api/user_data HTTP/1.1" 200 -
+INFO:root:Request Time: 2024-01-28 15:06:57.502281, URL: <MagicMock name='get().url' id='68692888'>, HTTP Method: <MagicMock name='get().request.method' id='69404176'>, Response JSON: {"results": [{"login": {"uuid": "123"}}]}, Total Response Time: 0.004 seconds
+INFO:root:Request Time: 2024-01-28 15:14:44.948549, URL: <MagicMock name='get().url' id='82672896'>, HTTP Method: <MagicMock name='get().request.method' id='82687288'>, Response JSON: {"results": [{"login": {"uuid": "123"}}]}, Total Response Time: 0.011005 seconds
