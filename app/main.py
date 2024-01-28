@@ -22,8 +22,7 @@ user_data_facade = UserDataFacade()
 
 # Schedule the cron job every 3 1/2 hours
 scheduler = BackgroundScheduler()
-scheduler.add_job(user_data_facade.fetch_process_store, 'interval', minutes=1, timezone=None)
-# scheduler.add_job(user_data_facade.fetch_process_store, 'interval', hours=3.5, timezone=None)
+scheduler.add_job(user_data_facade.fetch_process_store, 'interval', hours=3.5, timezone=None)
 scheduler.start()
 
 # Define API endpoints
